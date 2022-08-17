@@ -1,0 +1,19 @@
+.title{
+    text-align: center;
+    margin-top: 2%;
+    text-decoration: underline;
+}
+
+.add{
+    float: right;
+}
+.filtre{
+    float: right;
+    width: 300px;
+}
+.body{
+    overflow:scroll;
+}
+.space{
+    margin: 1%;
+}
